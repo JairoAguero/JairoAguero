@@ -1,5 +1,4 @@
 ![Header](./img/github-header.png)
-# ¡Hola, bienvenido/a a mi perfil de GitHub! 👋
 
 ## Sobre mí 🧑‍💻
 ¡Hola! Soy Jairo, un apasionado estudiante de desarrollo web. Me encanta explorar el vasto mundo de la tecnología y aprender nuevas habilidades para crear experiencias web impresionantes. Siempre estoy emocionado por los desafíos y me gusta trabajar en proyectos interesantes que me permitan ampliar mis conocimientos y habilidades.
